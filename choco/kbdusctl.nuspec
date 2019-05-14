@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>kbdusctl</id>
+    <version>1.0.0</version>
+    <title>United States-International (Ctrl dead keys) (Install)</title>
+    <authors>Ben Fourie</authors>
+    <projectUrl>https://github.com/benfo/kbdusctl</projectUrl>
+    <tags>keyboard layout diacritic</tags>
+    <summary>A keyboard layout for Windows that makes it easier to type diacritic marks.</summary>
+    <description>A keyboard layout for Windows that makes it easier to type diacritic marks.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
