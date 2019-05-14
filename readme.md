@@ -9,7 +9,7 @@ The following diacritics are supported:
 | acute accent | áéíúó   | `Ctrl + '`, `e`                                                                                                                       |
 | grave accent | àèìòù   | `` Ctrl + ` ``, `e`                                                                                                                   |
 | circumflex   | âêîôû   | `Ctrl + ^`, `e` <br> _The circumflex is situated above the number `6` so the full keyboard sequence is: <br> `Ctrl + Shift + 6`, `e`_ |
-| umlaut       | äëïöü   | `Ctrl + "`, `e`                                                                                                                       |
+| umlaut       | äëïöü   | `Ctrl + :`, `e`                                                                                                                       |
 
 ## Installation
 
