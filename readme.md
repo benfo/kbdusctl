@@ -20,8 +20,8 @@ Extract the files into a folder and run `setup.exe`.
 Open the Language Settings:
 
 - Press `Windows Key` and type `language settings`.
-- Locate your current langage and select `Options`.
-  ![Language Settings](assets/languagesettings.png)
-- Add the new keyboard layout by selecting `Add a keyboard`.
-  ![Language Settings Add Keyboard](assets/languagesettings-addkb.png)
+- Locate your current langage and select `Options`.  
+  ![Language Settings](assets/languagesettings.png)  
+- Add the new keyboard layout by selecting `Add a keyboard`.  
+  ![Language Settings Add Keyboard](assets/languagesettings-addkb.png)  
 - You can remove the other keyboard layouts so that you don't have to switch between layouts.
